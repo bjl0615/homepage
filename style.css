@@ -37,6 +37,7 @@ h1{
     background-image: url("./image/intro.png");
     width:100%;
     height:718px;
+    background-repeat: no-repeat;
 }
 
 .header{
@@ -224,6 +225,7 @@ h1{
     width: 100%;
     height: 418px;
     background-image: url("image/contract.png");
+    background-repeat: no-repeat;
 }
 
 .main_text2 > ul {
