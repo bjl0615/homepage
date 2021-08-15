@@ -12,6 +12,5 @@
 |  |   |   |   |   |
 |   |   |   |   |   |
 
-https://img.shields.io/appveyor/build/131/21122?color=15631531&label=13153&logo=1231&logoColor=5513153&style=plastic
 
 
