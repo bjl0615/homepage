@@ -4,8 +4,8 @@
 
 ## ☄ Table of Contents
     
-   #### -🖥  Screen
-- Type some Markdown on the left
+   
+- 🖥  Screen
 - See HTML in the right
 - ✨Magic ✨
 
