@@ -5,7 +5,9 @@
 ## ☄ Table of Contents
     
    #### - 🖥  Screen
-
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77454091/129482958-433e1ac0-7412-4c47-8bbc-0806b709ebc5.gif)
 
