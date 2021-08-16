@@ -5,7 +5,7 @@
 ## ☄ Table of Contents
     
    
--   [🗼Screen](#screen)
+-   [🖥Screen](#screen)
 -   [📦How to run](#how-to-run)
 -   [🔎Reference web link](#reference-web-link)
 -   [🌏Web Support](#web-support)
